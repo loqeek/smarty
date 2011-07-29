@@ -1,0 +1,51 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Fri, 29 Jul 2011 15:42:00 +0200
+Source: smarty
+Binary: smarty
+Architecture: source all
+Version: 3.0.8-4
+Distribution: unstable
+Urgency: low
+Maintainer: Wojciech Szaranski <loqeek@gmail.com>
+Changed-By: Wojciech Szaranski <loqeek@gmail.com>
+Description: 
+ smarty     - Template engine for PHP
+Closes: 514305
+Changes: 
+ smarty (3.0.8-4) unstable; urgency=low
+ .
+   * Change library path from /usr/share/php/smarty/libs/ to /usr/share/php/smarty/ with backward compatibility symbolic link (Closes: #514305)
+   * Fixed missing sysplugins
+Checksums-Sha1: 
+ bdaae3c64bc692dc038c29062585e36707af0027 1615 smarty_3.0.8-4.dsc
+ d62c4291b82a1465593e7a16810978f05efec5f4 4042 smarty_3.0.8-4.diff.gz
+ 4fb0adda07759959f8c216717e15791c9d8ab397 152962 smarty_3.0.8-4_all.deb
+Checksums-Sha256: 
+ f85a0fedbeda81006d52f35d12e7a9209cb114a73575af073de85a7fceb574a4 1615 smarty_3.0.8-4.dsc
+ 42d3363555c31092c08ace601e8899256c7e77add364b31d7d6de7ce2ef70db7 4042 smarty_3.0.8-4.diff.gz
+ faa71fa2922a4e0e73ac24b7e6b4699560aef2d0ace2bb00036822ea3f4689d5 152962 smarty_3.0.8-4_all.deb
+Files: 
+ 440cd6641fccfdb8809cdcc1707ccff5 1615 web optional smarty_3.0.8-4.dsc
+ c2982409973d2a317d5f73ab0e801e21 4042 web optional smarty_3.0.8-4.diff.gz
+ cdd9e70b6b2f1abad716f907b21fca01 152962 web optional smarty_3.0.8-4_all.deb
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.10 (GNU/Linux)
+
+iQIcBAEBAgAGBQJOMrueAAoJEP9Mp7xiGVgw4CMP/jRcDrZMByxfDnrfbq1rtTcS
+hgDOC3IYURKyG90imoAqOHspJEiA4dy/xQR0fTbsFXWnBAFCSnNZrRzwxcaVrK3Z
+JhjIP4y/q7P+3WNCPt0QY3KsB1SxzuTNcG0xi6KkNPxOC5s43fQd9kaEifMG+gMy
+Ms7EwlAeGdQNCciJPlE3AmsXWO861fjfwA5COR/jPe838lbBQTsPc9X/vqYn1Rut
+BYZsQGTptfFBNmhnc5D4ItgaPcmOpzCj9j+nBZP73zJunndJvSEIPpM1AhBybStR
+BmaHaqXE4Rwyhpc+HtFei7U2lgHoUOXCuhmeop3Tx40hO507Dy4m4P9WlUGWfQH+
+S9ifbCFWcsgW6BVXMjY8/WU+BLX9ABlhw9+E/dQBq3R8G8xYyE6UKVSJGoi85w9I
+TBTNm7mSq9/ZW1zLwHc3XGGpEqfSbVICrJeuriemKzWRop6gHj/wzEyemzicY0zx
+icOmdkssPFK4k2ZS4RUR9enBxNJ082oQlixcvTaTZ3Gm07OAlJLcO702IhSNmoM9
+mR178aJXwCabVarv2GiZ9NoH+86/2uFI+jEUA7uZOGASTnENJ7YH5Pm5NziaULOg
+HOkQ/yMwUDIC3htuMNL669mNq2tg34CDC3SFVFa2wvxJyBjYCVogkptpTgTUtlzn
+NYdkRWCqx/08y5ptUsUf
+=KSro
+-----END PGP SIGNATURE-----
