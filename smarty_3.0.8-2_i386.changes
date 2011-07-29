@@ -1,0 +1,49 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Thu, 28 Jul 2011 16:56:00 +0200
+Source: smarty
+Binary: smarty
+Architecture: source all
+Version: 3.0.8-2
+Distribution: unstable
+Urgency: low
+Maintainer: Wojciech Szaranski <loqeek@gmail.com>
+Changed-By: Wojciech Szaranski <loqeek@gmail.com>
+Description: 
+ smarty     - Template engine for PHP
+Changes: 
+ smarty (3.0.8-2) unstable; urgency=low
+ .
+   * Fixed dependency problem
+Checksums-Sha1: 
+ baf81ae764c4ea21e0c2c8aee4d8b8a8bd5707be 1615 smarty_3.0.8-2.dsc
+ 760010503b714ca3b703554dca30b6ce72efa42e 3990 smarty_3.0.8-2.diff.gz
+ 753ca4480bcfd0a1e5c9666235bed69dadc707f9 59566 smarty_3.0.8-2_all.deb
+Checksums-Sha256: 
+ d32a9392e9441f8174ae6c0f78b5d34d5e604a7bb519a30a623788f3b2fa36d5 1615 smarty_3.0.8-2.dsc
+ 4eb9156a0fef08f923aa7da5f9a14c0cbc963549923037d2235b5c0ae67d2f9b 3990 smarty_3.0.8-2.diff.gz
+ cbdaf81c6771bdc06b33f22cdd19b813e1297c9ce0efc5801f2f99f7b85ebfd4 59566 smarty_3.0.8-2_all.deb
+Files: 
+ 39e7cd3ba5ac62d7b73b16b41214823a 1615 web optional smarty_3.0.8-2.dsc
+ 63c80903c320374ce805ad56495113b8 3990 web optional smarty_3.0.8-2.diff.gz
+ 379f83c0754e1525c8b39ffa9eda5bb7 59566 web optional smarty_3.0.8-2_all.deb
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.10 (GNU/Linux)
+
+iQIcBAEBAgAGBQJOMXjIAAoJEP9Mp7xiGVgwYLYQAI6sR0hYvIbFDj9QasBvkcv0
+gqbh7inkey2zMnSH6u4Uu2he6LNvvOBfHUZ1RQgb1aLrk/nAHW0ydfgWaC9Gn7Ri
+e4g13sMLfqA1m29ZUuKlYvXcAwNe5I0aAHqCSamyVFJq/xbtpPgNbvdtjPyiVhEQ
+Q9dG9iLf1e3iCHE+H4AXP2Rr39AfSQ49Odm8bQRkUz57NpejeQawjBGr19lnmKrq
+LBEC1+kyxSVtgdilboRf0uEsD5MyBlan/94ZULDzoSbfWiJ6ViXag0YtTA0d1p9z
++FryJw+SeeWBNh6qRCuyJSVgqykJlZhdMnnS1Y6GDQrf2VVemy19NNMvbXcivHGA
+ZBw0EGM3BBw1hZLlSjOfkSggBRYeCcL7B789GtZOUdb21dX+DSl0zrX5AfP6fP6E
+kq35cJ+LFbgU8am5fRkN9V1C6Q8VKsg1KPYntyROAieEk2fyPUKY845p+nchNXvQ
+Sb+tX/ewbWxKd+H2vNAgDfzWghNjABNoUDv+y8PRLPseGmX/kfSbV25SV/S7c1Ez
+n6zOmI9qF3PcVp8CNpORVTQ19k0un/k5t6CsiqeLZe21gUoHxavP//xPwWhb5oHx
+1wnr+34jLueTZjLCSZGYKOBoVD9RSa3s9JKh7TJzkBHLjSFqXuCirGoSEK9FA8lr
+C1kt1fwXd0A7SzqRxexM
+=PKgV
+-----END PGP SIGNATURE-----

@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Thu, 28 Jul 2011 15:07:00 +0200
+Source: smarty
+Binary: smarty
+Architecture: source all
+Version: 3.0.8-1
+Distribution: unstable
+Urgency: low
+Maintainer: Wojciech Szaranski <loqeek@gmail.com>
+Changed-By: Wojciech Szaranski <loqeek@gmail.com>
+Description: 
+ smarty     - Template engine for PHP
+Closes: 592797
+Changes: 
+ smarty (3.0.8-1) unstable; urgency=low
+ .
+   * New maintainer (Closes: #592797)
+Checksums-Sha1: 
+ 1ed7ee75b18dcd68ffec22a930bf1f950b2200b7 731 smarty_3.0.8-1.dsc
+ 47a1cf7421865b6663dfeec532f6d7be854757f3 150210 smarty_3.0.8.orig.tar.gz
+ 13f537270b66fc7e988c1a8be2a3a8645e9a8175 3822 smarty_3.0.8-1.diff.gz
+ 71dc5aee87320151522589756caaa5e144e96d2b 59514 smarty_3.0.8-1_all.deb
+Checksums-Sha256: 
+ a7442eca8945f3a8dce4a4f870cb651d38b62b99e7daf4e97547709abf864600 731 smarty_3.0.8-1.dsc
+ 3e06ed064c5f3a5021082864873ba02929177bfa64337b374a48fcb6574a444a 150210 smarty_3.0.8.orig.tar.gz
+ bc2910efe2302c120f9f5dbb79a931c28c834861b9950cf483c4294db4c4dab9 3822 smarty_3.0.8-1.diff.gz
+ 4a94e862465ee432782241be44519fffef33e697e369153697eb1ea026b3af05 59514 smarty_3.0.8-1_all.deb
+Files: 
+ c1a5170047ef9baed296cceb4387ac4c 731 web optional smarty_3.0.8-1.dsc
+ 21d8a35d86a21618b01f34b00a7a02cf 150210 web optional smarty_3.0.8.orig.tar.gz
+ 0b69f59c4ebad9e40b4fc3dac8658574 3822 web optional smarty_3.0.8-1.diff.gz
+ 1d0b8bdc64e053e7b0a54a38da420a9a 59514 web optional smarty_3.0.8-1_all.deb

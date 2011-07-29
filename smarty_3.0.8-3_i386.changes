@@ -1,0 +1,49 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Thu, 28 Jul 2011 17:00:00 +0200
+Source: smarty
+Binary: smarty
+Architecture: source all
+Version: 3.0.8-3
+Distribution: unstable
+Urgency: low
+Maintainer: Wojciech Szaranski <loqeek@gmail.com>
+Changed-By: Wojciech Szaranski <loqeek@gmail.com>
+Description: 
+ smarty     - Template engine for PHP
+Changes: 
+ smarty (3.0.8-3) unstable; urgency=low
+ .
+   * Remove unused patches folder
+Checksums-Sha1: 
+ 9fa45f93d3672500887e80f917d6c4dbd285985a 1615 smarty_3.0.8-3.dsc
+ efc2b74ac1cfb2e27065ea7a14fc825dfe608d2f 3978 smarty_3.0.8-3.diff.gz
+ 008864902a98f151218ef153efd17b9764a94eb6 59584 smarty_3.0.8-3_all.deb
+Checksums-Sha256: 
+ 3628d0ba30da8b707bd9cc48439461eb662716037ec5e8b51978401fdf480d59 1615 smarty_3.0.8-3.dsc
+ bab1d7ac7c6e53173892f45453f6ae2e75d2de0808bd9c198067bccfe6bcc003 3978 smarty_3.0.8-3.diff.gz
+ e3cb66d283625d4767fa3df8265431b2e53aae5ca4496cb7e05ef9ba63927dc1 59584 smarty_3.0.8-3_all.deb
+Files: 
+ ef89b6dd8ae6822cc9db44bce528d0e8 1615 web optional smarty_3.0.8-3.dsc
+ 99abb8ae941a26e49897d40503fc7857 3978 web optional smarty_3.0.8-3.diff.gz
+ 6dea4e1e6948cb7a5fc0b62ce1e67894 59584 web optional smarty_3.0.8-3_all.deb
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.10 (GNU/Linux)
+
+iQIcBAEBAgAGBQJOMXmiAAoJEP9Mp7xiGVgwUGEP/jyuI0auSbILhL60417bsaqO
+UNIxeALl1BP0aP1x4CM1n6k0fn5eHIqimi6WokCbu5GSmlwNW/1V+Bp2VK6nyiLT
+lo3Hfi6p4lGDo1TVDO3w5tOGY6w2JEbu8F5Guw3kaPy4bUhWQTDtoc34oaMPHVck
+d0bZdLsk+T8/VQ30jP5i+elAZa3/ra21o/qgHfpwT2BfZrjTP+9+vPlU6eE332rk
+DOfrO5fhjpfOdRKs/wk/hdcTDfs6gGEhYn0nG+USMa/n4sLZd4MREn+kFrpwZuDp
+ULJ4Yv2kmBhRQb0keRzdEaXqn7e/luyziIKEahm9OvIFomRlJiJ7bs7Cu1jvXRz+
+h2iTK+E7aZhzNh6jhus9lKEEHstI8M5qCIjqXs2ZthYJ2qO+TAjbGTkjSQJsaoln
+eg2xFeLFsVPLOJtzDIhkMNVZqWkQh9X9vo3XPRfPABGJPFGZdz4UFMo990pgu4Fs
+r8p/mfYHEzk5nX7MR7ecWZ69j4BhefC4sF7CAtlSf6nXy5VHWTLwcw5cHAExItzA
+pd4DHhTqNlVWBg6IE4kgebb3VaYD2srFpxrTn/bEsET2FrQJ+vN6nzbpzIVHBb9T
+hqs6O7fRBWcorJ/rMeALy28qAb6xUeehf/sythUN3839QXhaQeHkUh+B0Di+A2GS
+SJPWHqRiHks2tDNdEZfx
+=mLqD
+-----END PGP SIGNATURE-----
